@@ -7,3 +7,4 @@ check the numbers, if they are integer
         add 2 numbers and put the value to sum
   NO  - Ask user to provide a number, give an error ("this is not a number")
   
+Print : your total is : sum
