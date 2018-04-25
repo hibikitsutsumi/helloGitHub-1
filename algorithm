@@ -1,8 +1,8 @@
-no1; this will be my fist number
-no2; this will be my second number
-sum; this will be my calculation. I will add 2 numbers and assingn the value to sum.
+var no1; this will be my fist number
+var no2; this will be my second number
+var sum; this will be my calculation. I will add 2 numbers and assingn the value to sum.
 
-check the numbers, if they are integer
+if (paseInt(no1) and parseInt(no2) and parseInt(no3))
   YES - make the calculation
         add 2 numbers and put the value to sum
   NO  - Ask user to provide a number, give an error ("this is not a number")
