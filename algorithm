@@ -1,10 +1,16 @@
-var no1; this will be my fist number
-var no2; this will be my second number
-var sum; this will be my calculation. I will add 2 numbers and assingn the value to sum.
+var no1;
+var no2;
+var sum;
 
-if (paseInt(no1) and parseInt(no2) and parseInt(no3))
-  YES - make the calculation
-        add 2 numbers and put the value to sum
-  NO  - Ask user to provide a number, give an error ("this is not a number")
-  
-Print : your total is : sum
+if (paseInt(no1) and parseInt(no2))
+{
+  sum = no1 + no2;
+}
+else
+{
+  ask("please provide another number);
+  print("this is not a number);
+}
+
+print sum;
+
